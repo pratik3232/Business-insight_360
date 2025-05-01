@@ -6,7 +6,7 @@ The project aims to create an integrated Power BI report that provides a compreh
 
 ### Components of the Project
 
-#### 1. Financial View https://github.com/pratik3232/Business-insight_360/blob/a6da6925a77e39709e6720a203387a7b78719274/Finance.jpg
+#### 1. Financial View https://github.com/pratik3232/Business-insight_360/blob/main/Finance.jpg
 **Objective:** To provide a detailed analysis of the company’s financial performance, including revenue, expenses, profitability, and key financial ratios.
 
 **Key Metrics:**
@@ -20,7 +20,7 @@ The project aims to create an integrated Power BI report that provides a compreh
 - KPIs: Net Sales, Gross Margin %, and Net Profit %
 
 
-#### 2. Sales View https://github.com/Datapb123/Business-Insight-360/blob/main/sales.png
+#### 2. Sales View https://github.com/pratik3232/Business-insight_360/blob/main/Sale.jpg
 **Objective:** To track and analyze sales performance, understand customer behavior, and identify sales trends and opportunities.
 
 **Key Metrics:**
@@ -30,7 +30,7 @@ The project aims to create an integrated Power BI report that provides a compreh
 - Customer and Products performance
 
 
-#### 3. Marketing View https://github.com/Datapb123/Business-Insight-360/blob/main/marketing.png
+#### 3. Marketing View https://github.com/pratik3232/Business-insight_360/blob/main/Marketing.jpg
 **Objective:** To evaluate the effectiveness of marketing, track key marketing metrics.
 
 **Key Metrics:**
@@ -38,7 +38,7 @@ The project aims to create an integrated Power BI report that provides a compreh
 - Metrics for Net Sales, Gross Margin %, and Net Profit %
 
 
-#### 4. Supply Chain View https://github.com/Datapb123/Business-Insight-360/blob/main/supply%20and%20chain.png
+#### 4. Supply Chain View https://github.com/pratik3232/Business-insight_360/blob/main/Supply%20Chain.jpg
 **Objective:** To monitor and optimize supply chain operations.
 
 **Key Metrics:**
@@ -47,7 +47,7 @@ The project aims to create an integrated Power BI report that provides a compreh
 - Key Metric by Customer
 - KPIs(Key Performance Indicators):Forecast Accuracy%, Net Error and Absolute Error.
 
-#### 5. Executive View https://github.com/Datapb123/Business-Insight-360/blob/main/executive.png
+#### 5. Executive View https://github.com/pratik3232/Business-insight_360/blob/main/Executive.jpg
 **Objective:** To provide a high-level overview of the business’s overall performance, integrating insights from financial, sales, marketing, and supply chain views for strategic decision-making.
 
 **Key Metrics:**
