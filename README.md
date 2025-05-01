@@ -6,7 +6,7 @@ The project aims to create an integrated Power BI report that provides a compreh
 
 ### Components of the Project
 
-#### 1. Financial View https://github.com/Datapb123/Business-Insight-360/blob/main/finance.png
+#### 1. Financial View https://github.com/pratik3232/Business-insight_360/blob/a6da6925a77e39709e6720a203387a7b78719274/Finance.jpg
 **Objective:** To provide a detailed analysis of the company’s financial performance, including revenue, expenses, profitability, and key financial ratios.
 
 **Key Metrics:**
