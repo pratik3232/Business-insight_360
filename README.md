@@ -1,6 +1,5 @@
 # Business-insight_360
-# Live Dashboard - https://app.powerbi.com/view?r=eyJrIjoiODcwMGQ3N2UtMzlkMS00YTA2LTk1NGMtNjdhOWI2YjdhZTRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
+# Live Dashboard - https:https://app.powerbi.com/view?r=eyJrIjoiMTQzMzMyNjQtZDNlNi00ODg0LWFiNDItYzExYzJlMTI4N2MxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ### Objective
 The project aims to create an integrated Power BI report that provides a comprehensive overview of key business metrics across financial, sales, marketing, supply chain, and executive perspectives. The goal is to enable stakeholders to make data-driven decisions, identify trends, and enhance operational efficiency.
